@@ -19,7 +19,4 @@ You'll learn about the general layout of the Scalem windows and how to use them.
 
 1. [Introduction: Terminology](Intro-Terminology.md)
 2. [Scalability in Unreal](Scalability-in-Unreal.md)
-3. Scalem User Guide
-   1. Introduction: Purpose, Goal, Terminology
-   2. Scalem Window Overview
-   3. Scalem Windows in Detail
+3. [Scalem User Guide](Scalem-User-Guide.md)

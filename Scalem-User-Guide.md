@@ -12,5 +12,6 @@ Before reading this part of the documentation, make sure you read the [Scalabili
 2. [Inside Scalem](Scalem-User-Guide/Inside-Scalem.md)
 3. [Scalem Window Overview](Scalem-User-Guide/Window-Overview.md)
 4. [Scalem Windows in Detail](Scalem-User-Guide/Windows-in-Detail.md)
+5. [How to Use Scalem](Scalem-User-Guide/How-to-Use.md)
 
 [Next &rarr;](Scalem-User-Guide/Introduction.md)

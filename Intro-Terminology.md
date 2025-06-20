@@ -32,6 +32,11 @@ Unreal defines different scalability groups for different areas.
 Each scalability group has its own quality level, as well as its own bundle of console variables.
 Example scalability groups are: Resolution Quality, Reflection Quality, Effects Quality, Global Illumination Quality.
 
+### Scalability Capture (Scalem)
+
+This is a bundle of data captured on a specific target machine.
+It contains the target machine name, a comment, the benchmark results and the current scalability settings.
+
 ### Target Machine
 
 Target Machine refers to a specific machine under controlled conditions.

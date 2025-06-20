@@ -1,4 +1,4 @@
-[Start](../Readme.md) | [Previous](Scalability-in-depth.md) | [Next](Config-Workflow.md)
+[Start](../Index.md) | [Previous](Scalability-in-depth.md) | [Next](Config-Workflow.md)
 
 # Benchmarks and Auto-Detect Settings
 

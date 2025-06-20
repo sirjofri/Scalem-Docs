@@ -1,4 +1,4 @@
-[Start](../Readme.md) | [Previous](../Scalem-User-Guide.md) | [Next](Window-Overview.md)
+[Start](../Index.md) | [Previous](../Scalem-User-Guide.md) | [Next](Window-Overview.md)
 
 # Introduction: Purpose, Goal, Terminology
 

@@ -1,4 +1,4 @@
-[Start](../Readme.md) | [Previous](Benchmark-AutoDetect-Scalability.md) | [Next](../Scalem-User-Guide.md)
+[Start](../Index.md) | [Previous](Benchmark-AutoDetect-Scalability.md) | [Next](../Scalem-User-Guide.md)
 
 # Configuration Workflow
 

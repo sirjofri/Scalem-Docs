@@ -1,4 +1,4 @@
-[Start](../Readme.md) | [Previous](Unreal-ini-Files.md) | [Next](Benchmark-AutoDetect-Scalability.md)
+[Start](../Index.md) | [Previous](Unreal-ini-Files.md) | [Next](Benchmark-AutoDetect-Scalability.md)
 
 # `Scalability.ini` in-depth
 

@@ -1,4 +1,4 @@
-[Start](../Readme.md) | [Previous](Introduction.md) | [Next](Windows-in-Detail.md)
+[Start](../Index.md) | [Previous](Introduction.md) | [Next](Windows-in-Detail.md)
 
 # Scalem Window Overview
 

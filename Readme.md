@@ -1,24 +1,49 @@
-# Gotta Scal'em All
+# Documentation for Scalem (Unreal Plugin)
 
-This is the documentation of the **Scalem** Unreal plugin that should help you make your project scalable for specific target machines.
+[**&rarr; Read the documentation &larr;**](Index.md)
 
-## How to Read this Documentation
+## Contribution
 
-In the beginning you'll get a list of common terms that are used within the whole documentation.
-Most terms can be understood from the context, but in case of misunderstandings, you can always refer to the "definitions" in that document. 
+Feel free to contribute by creating issues and sending patches.
 
-Because scalability is a complex topic and Scalem uses Unreal standards, this documentation will also guide you through Unreal scalability in general.
-This first part should help you understand how Unreal does scalability, fully independent of Scalem itself.
-Everything mentioned in that part applies to your projects whether you're using Scalem or not.
+### Creating Issues
 
-The second part is about Scalem itself.
-It builds on top of the knowledge you gained from the first part, so I recommend reading that part first.
-You'll learn about the general layout of the Scalem windows and how to use them.
+Right now, I don't have a structured way to manage this, so feel free to just create the issue.
 
-## Table of Contents
+- The description should be clear enough to get a good idea about the issue.
+- The label should match the importance and the content. If in doubt, don't set a label.
+- The issue should make clear:
+  - Which part of the documentation is affected
+  - What's the issue with that part
+  - Optional: How to fix the issue
+- Spelling mistakes: Please report them or send a patch.
+  However, I ask you to not report individual spelling mistakes, but take your time to read a larger portion around the mistake to potentially find more mistakes.
 
-1. [Introduction: Terminology](Intro-Terminology.md)
-2. [Scalability in Unreal](Scalability-in-Unreal.md)
-3. [Scalem User Guide](Scalem-User-Guide.md)
+### Sending Patches
 
-[Start &rarr;](Intro-Terminology.md)
+There are multiple ways to send patches:
+
+- Forking and sending merge requests
+- Uploading a diff/patch file to an issue
+- Copy/Pasting the diff to an issue (or something similar)
+
+Whichever way you choose, the changes should fit into the existing structure and make sense.
+
+## Writing Style and Content
+
+- Follow the "one sentence/idea per line" paradigm.
+  This is ideal for line based diff tools like git.
+  - It is ok to stretch this idea where it makes sense. For example, a bullet point with two small sentences is often easier to maintain on one line.
+- Write correct English.
+  - While it is ok to be a bit unformal, please use the correct spelling and proper words.
+  - I'm personally not a native English speaker. Feel free to correct me.
+
+### Links and References
+
+It is advised to link to existing documentation if:
+
+- The linked document is quite static (doesn't change the URL very often and the content is only updated)
+- The source of the linked document is trusted (e.g., the official documentation, well-known community members like Unreal Garden, Tom Looman, ...)
+- The linked document is safe (no malware)
+- The linked document is easy to read (no _annoying_ ads, no "scroll an eternity to reach the content")
+- The linked document is English. It is ok for the site itself to be in a different language, but the document content must be English language.

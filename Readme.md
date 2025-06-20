@@ -32,7 +32,7 @@ Whichever way you choose, the changes should fit into the existing structure and
 ## Writing Style and Content
 
 - Follow the "one sentence/idea per line" paradigm.
-  This is ideal for line based diff tools like git.
+  This is ideal for line-based diff tools like git.
   - It is ok to stretch this idea where it makes sense. For example, a bullet point with two small sentences is often easier to maintain on one line.
 - Write correct English.
   - While it is ok to be a bit unformal, please use the correct spelling and proper words.

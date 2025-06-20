@@ -3,21 +3,21 @@
 # Configuration Workflow
 
 Because every team works differently and every project has different conditions, it is impossible to have _one single_&trade; workflow.
-Because of that I can only describe a few tips that I think are important for you to find a workflow that works for you and your team.
+Because of that, I can only describe a few tips that I think are important for you to find a workflow that works for you and your team.
 
 ## Define Useful Target Machines
 
 Before starting to adjust the scalability, it is important to define the target machines.
-This should happen as early as possible because this steps involves discussions with the business people and the directors.
+This should happen as early as possible because these steps involve discussions with the business people and the directors.
 
-Each project has a use group with business-"musts" and director-"wants".
+Each project has a use group with business-"musts" and director-"wants."
 Business-"musts" are restrictions about the product that must be met, for example, a game should be able to run on a computer of students with good performance.
 
 Director-"wants" are restrictions about the product that specify the _quality_ (as well as the performance) on a specific target group.
 
 > For example, you need to know if your product has to run on a business laptop with no dedicated graphics, and how good it needs to perform on it.
 > It's possible that the project needs to run on a business laptop, but with lowest graphics and only 30 fps.
-> However, if the project runs on a gaming machine it should maybe reach 60 fps with highest graphics (Epic), or alternatively 40 fps with high quality settings.
+> However, if the project runs on a gaming machine, it should maybe reach 60 fps with highest graphics (Epic), or alternatively 40 fps with high quality settings.
 
 > This can even become more complicated.
 > For example, e-sports games could have other restrictions:

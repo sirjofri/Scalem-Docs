@@ -24,7 +24,7 @@ As you noticed, the config files all start with `Base...`, which is a pattern th
 ### Default Configuration
 
 The base configuration files contain all the settings that are applied to the engine by default.
-They can be considered "sane", but sometimes you just need different settings for your project.
+They can be considered "sane," but sometimes you only need different settings for your project.
 
 This is why your Unreal project has its own level of config files, which is applied to the whole project and usually shared with your team, using source control.
 The files are stored in your project folder: `(Unreal Project)/Config/Default*.ini`.
@@ -56,7 +56,7 @@ It is usually quite empty.
 ### Platform Configuration
 
 This is not a level in itself, but a separate layer on top of the other configuration levels.
-It is possible to have platform specific configuration overrides for each level.
+It is possible to have platform-specific configuration overrides for each level.
 
 I don't want to go into too much detail about this.
 If you want to learn more, check the [official documentation](https://dev.epicgames.com/documentation/en-us/unreal-engine/configuration-files-in-unreal-engine) and see the examples of the base configuration.
@@ -68,6 +68,6 @@ Each console variable belongs to a specific category and configuration file.
 The parameters can be set in their respective configuration file using their name.
 
 It is also possible to override most console variables in the Unreal in-game console or using code (Blueprint or C++).
-I recommend to use this sparingly and controlled, as it overrides the settings in your config files.
+I recommend using this sparingly and controlled, as it overrides the settings in your config files.
 
 [Next &rarr;](Scalability-in-depth.md)

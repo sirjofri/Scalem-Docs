@@ -8,7 +8,7 @@ In alphabetic order.
 
 > Benchmarking is the practice of comparing [...] performance metrics to industry bests and best practices from other companies. Dimensions typically measured are quality, time and cost.
 
-&mdash; "Benchmarking", Wikipedia
+&mdash; "Benchmarking," Wikipedia
 
 In our context of Unreal scalability, Unreal uses a benchmarking process to rate the performance of the CPU and the GPU.
 These two numbers can be used to determine the best settings.

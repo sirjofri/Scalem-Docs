@@ -4,7 +4,7 @@ This is the documentation of the **Scalem** Unreal plugin that should help you m
 
 ## How to Read this Documentation
 
-In the beginning you'll get a list of common terms that are used within the whole documentation.
+In the beginning, you'll get a list of common terms that are used within the whole documentation.
 Most terms can be understood from the context, but in case of misunderstandings, you can always refer to the "definitions" in that document. 
 
 Because scalability is a complex topic and Scalem uses Unreal standards, this documentation will also guide you through Unreal scalability in general.

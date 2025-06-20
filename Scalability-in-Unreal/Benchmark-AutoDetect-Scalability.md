@@ -1,3 +1,5 @@
+[Start](../Readme.md) | [Previous](Scalability-in-depth.md) | [Next](Config-Workflow.md)
+
 # Benchmarks and Auto-Detect Settings
 
 ## Benchmarking in Unreal
@@ -45,3 +47,5 @@ In Blueprint, you can use the following nodes:
 Using the knowledge you gained from reading the previous sections, it should be pretty clear that Unreal runs a benchmark to calculate the benchmark results for the CPU and the GPU.
 Then Unreal compares these values against the `PerfIndexThresholds` in the `Scalability.ini` file to determine the quality level per scalability group.
 In the end, the console variables for the quality levels are applied in the engine.
+
+[Next &rarr;](Config-Workflow.md)

@@ -1,3 +1,5 @@
+[Start](../Readme.md) | [Previous](Unreal-ini-Files.md) | [Next](Benchmark-AutoDetect-Scalability.md)
+
 # `Scalability.ini` in-depth
 
 For the `Scalability.ini` file there's a fully commented version that is distributed with every version of Unreal Engine.
@@ -117,3 +119,5 @@ r.TemporalAA.Quality=1
 [ViewDistanceQuality@Cine]
 ...
 ```
+
+[Next &rarr;](Benchmark-AutoDetect-Scalability.md)

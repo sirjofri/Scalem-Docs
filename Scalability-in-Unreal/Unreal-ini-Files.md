@@ -1,3 +1,5 @@
+[Start](../Readme.md) | [Previous](../Scalability-in-Unreal.md) | [Next](Scalability-in-depth.md)
+
 # Unreal INI Files: Introduction
 
 ## Different Levels of INI Files
@@ -67,3 +69,5 @@ The parameters can be set in their respective configuration file using their nam
 
 It is also possible to override most console variables in the Unreal in-game console or using code (Blueprint or C++).
 I recommend to use this sparingly and controlled, as it overrides the settings in your config files.
+
+[Next &rarr;](Scalability-in-depth.md)

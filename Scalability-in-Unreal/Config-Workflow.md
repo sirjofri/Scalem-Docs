@@ -1,3 +1,5 @@
+[Start](../Readme.md) | [Previous](Benchmark-AutoDetect-Scalability.md) | [Next](../Scalem-User-Guide.md)
+
 # Configuration Workflow
 
 Because every team works differently and every project has different conditions, it is impossible to have _one single_&trade; workflow.
@@ -51,3 +53,5 @@ You can never take every single user machine into account, but if you get user f
 Some users want higher graphics and high performance on a machine that's just out of scope.
 
 In fact, be careful with users who always want the best: Highest graphics, highest performance.
+
+[Next &rarr;](../Scalem-User-Guide.md)

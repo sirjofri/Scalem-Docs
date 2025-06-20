@@ -85,4 +85,6 @@ The exact names of these files are up to you (except for their file extension `.
 The Scalem editor provides the tools to manipulate these files.
 It also allows you to quickly "copy over" a preset file to the project `DefaultScalability.ini` file.
 
+The individual different `Scalability.ini` files are called "scalability bundles" internally.
+
 [Next](Window-Overview.md)

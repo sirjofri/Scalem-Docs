@@ -26,16 +26,20 @@ Unreal uses the quality levels to group console variables together into units th
 
 Unreal defines three (four) different quality levels: _Low_ (0), _Medium_ (1), _High_ (2), _Epic_ (3), _Cinematic_ (Cine, 4).
 
-### Scalability Group
+### Scalability Bundle (Scalem)
 
-Unreal defines different scalability groups for different areas.
-Each scalability group has its own quality level, as well as its own bundle of console variables.
-Example scalability groups are: Resolution Quality, Reflection Quality, Effects Quality, Global Illumination Quality.
+`DefaultScalability.ini`, `BaseScalability.ini` and the preset files are all "scalability bundles."
 
 ### Scalability Capture (Scalem)
 
 This is a bundle of data captured on a specific target machine.
 It contains the target machine name, a comment, the benchmark results and the current scalability settings.
+
+### Scalability Group
+
+Unreal defines different scalability groups for different areas.
+Each scalability group has its own quality level, as well as its own bundle of console variables.
+Example scalability groups are: Resolution Quality, Reflection Quality, Effects Quality, Global Illumination Quality.
 
 ### Target Machine
 

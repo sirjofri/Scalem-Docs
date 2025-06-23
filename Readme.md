@@ -1,6 +1,6 @@
 # Documentation for Scalem (Unreal Plugin)
 
-[**&rarr; Read the documentation &larr;**](Index.md)
+[**&rarr; Read the documentation &larr;**](index.md)
 
 ## Contribution
 

@@ -1,4 +1,4 @@
-[Start](../Index.md) | [Previous](Introduction.md) | [Next](Window-Overview.md)
+[Start](../index.md) | [Previous](Introduction.md) | [Next](Window-Overview.md)
 
 # Inside Scalem
 

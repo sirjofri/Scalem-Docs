@@ -1,5 +1,5 @@
-[Start](../Index.md) | [Previous](Windows-in-Detail.md) | [Next](../Index.md)
+[Start](../index.md) | [Previous](Windows-in-Detail.md) | [Next](../index.md)
 
 # How to Use Scalem
 
-[Next &rarr;](../Index.md)
+[Next &rarr;](../index.md)

@@ -1,4 +1,4 @@
-[Start](Index.md) | [Previous](Intro-Terminology.md) | [Next](Scalem-User-Guide.md)
+[Start](index.md) | [Previous](Intro-Terminology.md) | [Next](Scalem-User-Guide.md)
 
 # Scalability in Unreal
 

@@ -1,4 +1,4 @@
-[Start](Index.md) | [Previous](Index.md) | [Next](Scalability-in-Unreal.md)
+[Start](index.md) | [Previous](index.md) | [Next](Scalability-in-Unreal.md)
 
 # Terminology
 

@@ -1,4 +1,4 @@
-[Start](../Index.md) | [Previous](../Scalability-in-Unreal.md) | [Next](Scalability-in-depth.md)
+[Start](../index.md) | [Previous](../Scalability-in-Unreal.md) | [Next](Scalability-in-depth.md)
 
 # Unreal INI Files: Introduction
 

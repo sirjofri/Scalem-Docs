@@ -1,4 +1,4 @@
-[Start](../Index.md) | [Previous](../Scalem-User-Guide.md) | [Next](Inside-Scalem.md)
+[Start](../index.md) | [Previous](../Scalem-User-Guide.md) | [Next](Inside-Scalem.md)
 
 # Introduction: Purpose, Goal, Terminology
 

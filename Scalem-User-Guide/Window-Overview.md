@@ -5,14 +5,14 @@
 The main window for Scalem can be found in `Tools` &rarr; `Scalem Editor`.
 The window contains multiple subwindows, some of which open automatically:
 
-- Scalability Editor
-- Machines and Captures
-- Bar Plot
-- Visual Scalability Editor
-- Console Variables Editor
-- Calculation Parameters
-- Target Machine Editor
-- Scalability Capture Viewer
+- [Scalability Editor](Windows-in-Detail.md#scalability-editor)
+- [Visual Scalability Editor](Windows-in-Detail.md#visual-scalability-editor)
+- [Console Variables Editor](Windows-in-Detail.md#console-variables-editor)
+- [Machines and Captures](Windows-in-Detail.md#machines-and-captures)
+- [Bar Plot](Windows-in-Detail.md#bar-plot)
+- [Calculation Parameters](Windows-in-Detail.md#calculation-parameters)
+- [Target Machine Editor](Windows-in-Detail.md#target-machine-editor)
+- [Scalability Capture Viewer](Windows-in-Detail.md#scalability-capture-viewer)
 
 The following sections will go through these individual windows in more detail.
 
@@ -20,7 +20,7 @@ The following sections will go through these individual windows in more detail.
 
 The main window as it opens by default is split horizontally into two separate sides:
 
-![Main Window]()
+![Main Window](Media/scalem-window.png)
 
 The left side can be thought of as the list and selection side.
 It contains the window for selecting the scalability bundle and adjusting that (top).

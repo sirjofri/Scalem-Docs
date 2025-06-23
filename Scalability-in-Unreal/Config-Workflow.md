@@ -49,9 +49,7 @@ That way you can keep the default settings and adjust them where needed, and you
 
 ## Keep in Mind User Feedback
 
-You can never take every single user machine into account, but if you get user feedback, take it seriously, but don't overreact.
-Some users want higher graphics and high performance on a machine that's just out of scope.
-
-In fact, be careful with users who always want the best: Highest graphics, highest performance.
+You can never take every single user machine into account, but if you get user feedback, take it seriously.
+Be careful though, as users often have unrealistic expectations that don't match your plan.
 
 [Next &rarr;](../Scalem-User-Guide.md)

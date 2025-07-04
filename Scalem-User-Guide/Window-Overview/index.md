@@ -1,18 +1,18 @@
-[Start](../index.md) | [Previous](Introduction.md) | [Next](Windows-in-Detail.md)
+[Start](../../index.md) | [Previous](../Introduction/index.md) | [Next](../Windows-in-Detail/index.md)
 
 # Scalem Window Overview
 
 The main window for Scalem can be found in `Tools` &rarr; `Scalem Editor`.
 The window contains multiple subwindows, some of which open automatically:
 
-- [Scalability Editor](Windows-in-Detail.md#scalability-editor)
-- [Visual Scalability Editor](Windows-in-Detail.md#visual-scalability-editor)
-- [Console Variables Editor](Windows-in-Detail.md#console-variables-editor)
-- [Machines and Captures](Windows-in-Detail.md#machines-and-captures)
-- [Bar Plot](Windows-in-Detail.md#bar-plot)
-- [Calculation Parameters](Windows-in-Detail.md#calculation-parameters)
-- [Target Machine Editor](Windows-in-Detail.md#target-machine-editor)
-- [Scalability Capture Viewer](Windows-in-Detail.md#scalability-capture-viewer)
+- [Scalability Editor](../Windows-in-Detail/index.md#scalability-editor)
+- [Visual Scalability Editor](../Windows-in-Detail/index.md#visual-scalability-editor)
+- [Console Variables Editor](../Windows-in-Detail/index.md#console-variables-editor)
+- [Machines and Captures](../Windows-in-Detail/index.md#machines-and-captures)
+- [Bar Plot](../Windows-in-Detail/index.md#bar-plot)
+- [Calculation Parameters](../Windows-in-Detail/index.md#calculation-parameters)
+- [Target Machine Editor](../Windows-in-Detail/index.md#target-machine-editor)
+- [Scalability Capture Viewer](../Windows-in-Detail/index.md#scalability-capture-viewer)
 
 The following sections will go through these individual windows in more detail.
 
@@ -20,7 +20,7 @@ The following sections will go through these individual windows in more detail.
 
 The main window as it opens by default is split horizontally into two separate sides:
 
-![Main Window](Media/scalem-window.png)
+![Main Window](../Media/scalem-window.png)
 
 The left side can be thought of as the list and selection side.
 It contains the window for selecting the scalability bundle and adjusting that (top).
@@ -38,4 +38,4 @@ It also draws the currently selected scalability bundles to make it easier to pl
 
 The remaining windows only appear after summoning them manually using the `Window` menu, or after certain actions happen.
 
-[Next &rarr;](Windows-in-Detail.md)
+[Next &rarr;](../Windows-in-Detail/index.md)

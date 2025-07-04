@@ -1,4 +1,4 @@
-[Start](../index.md) | [Previous](Window-Overview.md) | [Next](How-to-Use.md)
+[Start](../../index.md) | [Previous](../Window-Overview/index.md) | [Next](../How-to-Use/index.md)
 
 # Scalem Windows in Detail
 
@@ -7,7 +7,7 @@ After reading this page, you should have a good idea about how to use Scalem.
 
 ## Scalability Editor
 
-![Scalability Editor Window](Media/scalability-editor.png)
+![Scalability Editor Window](../Media/scalability-editor.png)
 
 This editor lets you set up the quality level performance thresholds for all scalability groups.
 One row per scalability group, it displays the `PerfIndexThreshold` fields and buttons for editing the console variables for each combination of a scalability group and the quality levels (see [Console Variables Editor](#console-variables-editor)).
@@ -21,7 +21,7 @@ This selection affects all the other Scalem windows.
 
 ## Visual Scalability Editor
 
-![Visual Scalability Editor](Media/visual-scalability.png)
+![Visual Scalability Editor](../Media/visual-scalability.png)
 
 The visual scalability editor provides another way to edit the `PerfIndexThresholds` values for the currently selected scalability bundle.
 For each scalability group, it provides a "multi slider" with three individual sliders which you can move around to set the threshold values.
@@ -40,7 +40,7 @@ In the top bar, you can adjust the visualized range.
 
 ## Console Variables Editor
 
-![Console Variables Editor](Media/console-variables.png)
+![Console Variables Editor](../Media/console-variables.png)
 
 The console variables editor allows you to edit the CVars for the clicked scalability group at the specific quality level (see [Scalability Editor](#scalability-editor)).
 
@@ -50,7 +50,7 @@ The "Value" field is a string of characters, allowing you to also add inline com
 
 ## Machines and Captures
 
-![Machines and Captures Window](Media/machines-and-captures.png)
+![Machines and Captures Window](../Media/machines-and-captures.png)
 
 This editor lists all the loaded target machines and their captures.
 It allows you to select the captures you want to look at in more detail.
@@ -71,7 +71,7 @@ The menu bar of that window shows buttons:
 
 ## Bar Plot
 
-![Bar Plot Window](Media/bar-plot.png)
+![Bar Plot Window](../Media/bar-plot.png)
 
 The bar plot visualizes your selected scalability captures.
 On the horizontal axis, it lists all the scalability groups, the vertical axis shows the different quality levels.
@@ -106,7 +106,7 @@ A future version of this document will go into more detail, as this part of the 
 
 ## Target Machine Editor
 
-![Target Machine Editor](Media/target-machine-editor.png)
+![Target Machine Editor](../Media/target-machine-editor.png)
 
 This window will be summoned by clicking the specific button in the [Machines and Captures](#machines-and-captures) window.
 
@@ -118,7 +118,7 @@ It allows you to edit all important values for the specified target machine.
 
 ## Scalability Capture Viewer
 
-![Scalability Capture Viewer](Media/capture-viewer.png)
+![Scalability Capture Viewer](../Media/capture-viewer.png)
 
 The scalability capture viewer is summoned by clicking the specific button in the [Machines and Captures](#machines-and-captures) window.
 
@@ -128,4 +128,4 @@ There is no editing functionality.
 > It is possible to manually edit the `.ini` files directly.
 
 
-[Next &rarr;](How-to-Use.md)
+[Next &rarr;](../How-to-Use/index.md)

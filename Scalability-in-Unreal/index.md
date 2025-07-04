@@ -1,4 +1,4 @@
-[Start](index.md) | [Previous](Intro-Terminology.md) | [Next](Scalem-User-Guide.md)
+[Start](../index.md) | [Previous](../Intro-Terminology/index.md) | [Next](../Scalem-User-Guide/index.md)
 
 # Scalability in Unreal
 
@@ -10,9 +10,9 @@ By the end of this part, you'll have all the knowledge to fine-tune the individu
 
 ## Table of Contents
 
-1. [Unreal INI Files: Introduction](Scalability-in-Unreal/Unreal-ini-Files.md)
-2. [`Scalability.ini` in-depth](Scalability-in-Unreal/Scalability-in-depth.md)
-3. [Benchmarks and Auto-Detect Settings](Scalability-in-Unreal/Benchmark-AutoDetect-Scalability.md)
-4. [Configuration Workflow](Scalability-in-Unreal/Config-Workflow.md)
+1. [Unreal INI Files: Introduction](Unreal-ini-Files/index.md)
+2. [`Scalability.ini` in-depth](Scalability-in-depth/index.md)
+3. [Benchmarks and Auto-Detect Settings](Benchmark-AutoDetect-Scalability/index.md)
+4. [Configuration Workflow](Config-Workflow/index.md)
 
-[Next &rarr;](Scalem-User-Guide.md)
+[Next &rarr;](../Scalem-User-Guide/index.md)

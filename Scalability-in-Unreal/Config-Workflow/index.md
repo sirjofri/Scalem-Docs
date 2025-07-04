@@ -1,4 +1,4 @@
-[Start](../index.md) | [Previous](Benchmark-AutoDetect-Scalability.md) | [Next](../Scalem-User-Guide.md)
+[Start](../../index.md) | [Previous](../Benchmark-AutoDetect-Scalability/index.md) | [Next](../../Scalem-User-Guide/index.md)
 
 # Configuration Workflow
 
@@ -52,4 +52,4 @@ That way you can keep the default settings and adjust them where needed, and you
 You can never take every single user machine into account, but if you get user feedback, take it seriously.
 Be careful though, as users often have unrealistic expectations that don't match your plan.
 
-[Next &rarr;](../Scalem-User-Guide.md)
+[Next &rarr;](../../Scalem-User-Guide/index.md)

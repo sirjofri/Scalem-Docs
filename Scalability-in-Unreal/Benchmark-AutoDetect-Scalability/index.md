@@ -1,4 +1,4 @@
-[Start](../index.md) | [Previous](Scalability-in-depth.md) | [Next](Config-Workflow.md)
+[Start](../../index.md) | [Previous](../Scalability-in-depth/index.md) | [Next](../Config-Workflow/index.md)
 
 # Benchmarks and Auto-Detect Settings
 
@@ -17,7 +17,7 @@ For example, a laptop might reach completely different values while running on a
 To run a benchmark, you can use the console command `SynthBenchmark`.
 The results will be printed on the console output.
 Instead of the console command, you can use the `Run Hardware Benchmark` Blueprint function:
-![Run Hardware Benchmark](Media/RunHardwareBenchmark.png)
+![Run Hardware Benchmark](../Media/RunHardwareBenchmark.png)
 
 In this screenshot, you'll notice additional parameters:
 
@@ -42,10 +42,10 @@ In addition to benchmarking, you need a way to apply the benchmark results.
 On the console, there is a single command that runs a benchmark and applies the settings, and it's as simple as `Scalability Auto`.
 
 In Blueprint, you can use the following nodes:
-![Apply Benchmark Results](Media/ApplyBenchmark.png)
+![Apply Benchmark Results](../Media/ApplyBenchmark.png)
 
 Using the knowledge you gained from reading the previous sections, it should be pretty clear that Unreal runs a benchmark to calculate the benchmark results for the CPU and the GPU.
 Then Unreal compares these values against the `PerfIndexThresholds` in the `Scalability.ini` file to determine the quality level per scalability group.
 In the end, the console variables for the quality levels are applied in the engine.
 
-[Next &rarr;](Config-Workflow.md)
+[Next &rarr;](../Config-Workflow/index.md)

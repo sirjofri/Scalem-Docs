@@ -1,4 +1,4 @@
-[Start](../../index.md) | [Previous](../Scalability-in-depth/index.md) | [Next](../Config-Workflow/index.md)
+[← Previous](../Scalability-in-depth/index.md) | [Start](../../index.md) | [Next →](../Config-Workflow/index.md)
 
 # Benchmarks and Auto-Detect Settings
 
@@ -48,4 +48,4 @@ Using the knowledge you gained from reading the previous sections, it should be 
 Then Unreal compares these values against the `PerfIndexThresholds` in the `Scalability.ini` file to determine the quality level per scalability group.
 In the end, the console variables for the quality levels are applied in the engine.
 
-[Next &rarr;](../Config-Workflow/index.md)
+[Next →](../Config-Workflow/index.md)

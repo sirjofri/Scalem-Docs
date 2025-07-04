@@ -21,4 +21,4 @@ You'll learn about the general layout of the Scalem windows and how to use them.
 2. [Scalability in Unreal](Scalability-in-Unreal/index.md)
 3. [Scalem User Guide](Scalem-User-Guide/index.md)
 
-[Start &rarr;](Intro-Terminology/index.md)
+[Start →](Intro-Terminology/index.md)

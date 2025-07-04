@@ -1,4 +1,4 @@
-[Start](../../index.md) | [Previous](../Unreal-ini-Files/index.md) | [Next](../Benchmark-AutoDetect-Scalability/index.md)
+[← Previous](../Unreal-ini-Files/index.md) | [Start](../../index.md) | [Next →](../Benchmark-AutoDetect-Scalability/index.md)
 
 # `Scalability.ini` in-depth
 
@@ -120,4 +120,5 @@ r.TemporalAA.Quality=1
 ...
 ```
 
-[Next &rarr;](../Benchmark-AutoDetect-Scalability/index.md)
+
+[Next →](../Benchmark-AutoDetect-Scalability/index.md)

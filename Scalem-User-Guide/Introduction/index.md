@@ -1,4 +1,4 @@
-[Start](../../index.md) | [Previous](../index.md) | [Next](../Inside-Scalem/index.md)
+[← Previous](../index.md) | [Start](../../index.md) | [Next →](../Inside-Scalem/index.md)
 
 # Introduction: Purpose, Goal, Terminology
 
@@ -10,4 +10,4 @@ It doesn't take away every task though, but it should help you focus on what act
 
 In addition to that, Scalem also processes the data and presents it visually, and provides tools that help you find the best scalability settings for your project.
 
-[Next &rarr;](../Inside-Scalem/index.md)
+[Next →](../Inside-Scalem/index.md)

@@ -1,4 +1,4 @@
-[Start](../../index.md) | [Previous](../Introduction/index.md) | [Next](../Window-Overview/index.md)
+[← Previous](../Introduction/index.md) | [Start](../../index.md) | [Next →](../Window-Overview/index.md)
 
 # Inside Scalem
 
@@ -87,4 +87,4 @@ It also allows you to quickly "copy over" a preset file to the project `DefaultS
 
 The individual different `Scalability.ini` files are called "scalability bundles" internally.
 
-[Next](../Window-Overview/index.md)
+[Next →](../Window-Overview/index.md)

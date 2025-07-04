@@ -1,4 +1,4 @@
-[Start](../../index.md) | [Previous](../Window-Overview/index.md) | [Next](../How-to-Use/index.md)
+[← Previous](../Window-Overview/index.md) | [Start](../../index.md) | [Next →](../How-to-Use/index.md)
 
 # Scalem Windows in Detail
 
@@ -128,4 +128,4 @@ There is no editing functionality.
 > It is possible to manually edit the `.ini` files directly.
 
 
-[Next &rarr;](../How-to-Use/index.md)
+[Next →](../How-to-Use/index.md)

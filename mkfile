@@ -1,7 +1,10 @@
 files=`{walk -f | grep 'index\.md$' | sed 's:\.md$:.html:' | grep -v '^out/'}
 copymedia=`{walk -f | grep '\.png$' | grep -v '^out/'}
 
-mkdflags=-f toc -f fencedcode -T -x
+nl='
+'
+
+mkdflags=-f toc -f fencedcode -f tables -T -x
 getfirsttitle='
 /^#[ \t]/ {
 	sub(/^#[ \t]+/, "")
@@ -20,7 +23,8 @@ test:V:
 
 out/index.html:Q: index.md fragments/header.ht fragments/footer.ht
 	mkdir -p `{basename -d $target}
-	title=`{awk $"getfirsttitle <index.md}
+	title=`{markdown -t `$nl{awk $"getfirsttitle <index.md}}
+	title=`{echo -n $title | sed 's:/:\\/:g;s:<:\\<:g;s:>:\\>:g'}
 	if(~ $#title 0)
 		title="Scalem"
 	{
@@ -32,7 +36,8 @@ out/index.html:Q: index.md fragments/header.ht fragments/footer.ht
 
 out/%/index.html:Q: %/index.md fragments/header.ht fragments/footer.ht
 	mkdir -p `{basename -d $target}
-	title=`{awk $"getfirsttitle <$stem/index.md}
+	title=`{markdown -t `$nl{awk $"getfirsttitle <$stem/index.md}}
+	title=`{echo -n $title | sed 's:/:\\/:g;s:<:\\<:g;s:>:\\>:g'}
 	if(~ $#title 0)
 		title="Scalem"
 	{

@@ -1,4 +1,4 @@
-[Start](../../index.md) | [Previous](../Introduction/index.md) | [Next](../Windows-in-Detail/index.md)
+[← Previous](../Introduction/index.md) | [Start](../../index.md) | [Next →](../Windows-in-Detail/index.md)
 
 # Scalem Window Overview
 
@@ -38,4 +38,4 @@ It also draws the currently selected scalability bundles to make it easier to pl
 
 The remaining windows only appear after summoning them manually using the `Window` menu, or after certain actions happen.
 
-[Next &rarr;](../Windows-in-Detail/index.md)
+[Next →](../Windows-in-Detail/index.md)

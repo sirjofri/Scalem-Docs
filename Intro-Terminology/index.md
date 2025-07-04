@@ -1,4 +1,4 @@
-[Start](../index.md) | [Previous](../index.md) | [Next](../Scalability-in-Unreal/index.md)
+[← Previous](../index.md) | [Start](../index.md) | [Next →](../Scalability-in-Unreal/index.md)
 
 # Terminology
 
@@ -49,4 +49,4 @@ You usually want your project to perform on that machine with specific settings.
 While it's rare that a user has a computer with the exact same configuration, there's a good chance that you can estimate the best settings based on the benchmarks on their computer.
 For that purpose, you usually have multiple target machines with different hardware configurations and settings.
 
-[Next &rarr;](../Scalability-in-Unreal/index.md)
+[Next →](../Scalability-in-Unreal/index.md)

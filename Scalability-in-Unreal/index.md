@@ -1,4 +1,4 @@
-[Start](../index.md) | [Previous](../Intro-Terminology/index.md) | [Next](../Scalem-User-Guide/index.md)
+[← Previous](../Intro-Terminology/index.md) | [Start](../index.md) | [Next →](Unreal-ini-Files/index.md)
 
 # Scalability in Unreal
 
@@ -15,4 +15,4 @@ By the end of this part, you'll have all the knowledge to fine-tune the individu
 3. [Benchmarks and Auto-Detect Settings](Benchmark-AutoDetect-Scalability/index.md)
 4. [Configuration Workflow](Config-Workflow/index.md)
 
-[Next &rarr;](../Scalem-User-Guide/index.md)
+[Next →](Unreal-ini-Files/index.md)

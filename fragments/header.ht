@@ -35,6 +35,13 @@ pre:has(code) {
 	padding: 4px;
 	overflow: scroll;
 }
+blockquote {
+	width: 100%;
+	border: solid #aaa;
+	border-width: 0px 0px 0px 5px;
+	padding-left: 7px;
+	margin-left: 0px;
+}
 </style>
 </head>
 <body>

@@ -30,12 +30,12 @@ To prepare the next section, it's important to take a look at the rough workflow
 7. Copy the exported `.ini` file to your Scalem project folder.
 8. In your main project, use the Scalem editor to adjust the scalability on your project.
 
-These steps will be described in more detail later.
+These steps will be described in more detail [here](../How-to-Use/index.md).
 
 ## Scalem Project Files
 
 Scalem stores all its project files in a subfolder of your project folder, which is `(Unreal Project)/Scalem` (shortened to `(Scalem)` from now on).
-This means that this folder will contain all the target machine configurations, all scalability captures, and the scalability presets.
+This means that this folder will contain all the target machine configurations, all scalability captures and the scalability presets.
 
 Scalem also works with the `Scalability.ini` file of your project.
 I'm planning to extend this functionality to also include the `BaseScalability.ini` file of the Unreal installation.

@@ -97,7 +97,7 @@ The bar plot&mdash;as all the other windows&mdash;update automatically, so it's 
 
 ## Calculation Parameters
 
-![Calculation Parameters]()
+![Calculation Parameters](../Media/calc-params.png)
 
 The calculation parameters editor lists all calculation parameters and allows you to edit them.
 These parameters are used for many different purposes.

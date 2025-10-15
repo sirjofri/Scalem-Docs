@@ -15,6 +15,8 @@ The second part is about Scalem itself.
 It builds on top of the knowledge you gained from the first part, so I recommend reading that part first.
 You'll learn about the general layout of the Scalem windows and how to use them.
 
+The source code of this documentation is available [here](https://github.com/sirjofri/Scalem-Docs).
+
 ## Table of Contents
 
 1. [Introduction: Terminology](Intro-Terminology/index.md)

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128"
+   height="128"
+   viewBox="0 0 128 128"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="Icon.svg"
+   inkscape:export-filename="Icon128.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="62.755727"
+     inkscape:cy="62.490562"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="bars"
+     showguides="false">
+    <inkscape:grid
+       id="grid1"
+       units="px"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="8"
+       enabled="true"
+       visible="true" />
+    <sodipodi:guide
+       position="240,740"
+       orientation="0,-1"
+       id="guide77"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="220,380"
+       orientation="0,-1"
+       id="guide78"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="260,780"
+       orientation="1,0"
+       id="guide79"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="740,780"
+       orientation="1,0"
+       id="guide80"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="31,72"
+       orientation="1,0"
+       id="guide12"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="97,99"
+       orientation="1,0"
+       id="guide13"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="46,96"
+       orientation="0,-1"
+       id="guide14"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="64,31"
+       orientation="0,-1"
+       id="guide15"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="58.375,48"
+       orientation="0,-1"
+       id="guide16"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="85,96"
+       orientation="0.50387103,-0.8637789"
+       id="guide17"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="69,42"
+       orientation="0,-1"
+       id="guide18"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="Layer"
+     style="stroke-width:0;stroke-dasharray:none">
+    <g
+       id="slider"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;stroke-opacity:1">
+      <rect
+         id="slider_line"
+         width="66"
+         height="1"
+         x="31"
+         y="91"
+         ry="0.5" />
+      <rect
+         id="slider_head"
+         width="4"
+         height="11"
+         x="71"
+         y="86"
+         ry="1" />
+    </g>
+    <g
+       id="bars"
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1">
+      <rect
+         id="low"
+         width="12"
+         height="16"
+         x="31"
+         y="64"
+         ry="1" />
+      <rect
+         id="medium"
+         width="12"
+         height="27"
+         x="49"
+         y="53"
+         ry="1" />
+      <rect
+         id="high"
+         width="12"
+         height="38"
+         x="67"
+         y="42"
+         ry="1" />
+      <rect
+         id="epic"
+         width="12"
+         height="48"
+         x="85"
+         y="32"
+         ry="1" />
+    </g>
+    <path
+       d="m 29,8 c -0.554,0 -1,0.446 -1,1 v 7 H 17 c -0.554,0 -1,0.446 -1,1 V 28 H 9 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.554 0.446,1 1,1 h 7 v 8 H 9 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.554 0.446,1 1,1 h 7 v 8 H 9 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.554 0.446,1 1,1 h 7 v 8 H 9 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.554 0.446,1 1,1 h 7 v 8 H 9 c -0.554,0 -1,0.446 -1,1 v 6 c 0,0.554 0.446,1 1,1 h 7 v 11 c 0,0.554 0.446,1 1,1 h 11 v 7 c 0,0.554 0.446,1 1,1 h 6 c 0.554,0 1,-0.446 1,-1 v -7 h 8 v 7 c 0,0.554 0.446,1 1,1 h 6 c 0.554,0 1,-0.446 1,-1 v -7 h 8 v 7 c 0,0.554 0.446,1 1,1 h 6 c 0.554,0 1,-0.446 1,-1 v -7 h 8 v 7 c 0,0.554 0.446,1 1,1 h 6 c 0.554,0 1,-0.446 1,-1 v -7 h 8 v 7 c 0,0.554 0.446,1 1,1 h 6 c 0.554,0 1,-0.446 1,-1 v -7 h 11 c 0.554,0 1,-0.446 1,-1 v -11 h 7 c 0.554,0 1,-0.446 1,-1 v -6 c 0,-0.554 -0.446,-1 -1,-1 h -7 v -8 h 7 c 0.554,0 1,-0.446 1,-1 v -6 c 0,-0.554 -0.446,-1 -1,-1 h -7 v -8 h 7 c 0.554,0 1,-0.446 1,-1 v -6 c 0,-0.554 -0.446,-1 -1,-1 h -7 v -8 h 7 c 0.554,0 1,-0.446 1,-1 v -6 c 0,-0.554 -0.446,-1 -1,-1 h -7 v -8 h 7 c 0.554,0 1,-0.446 1,-1 v -6 c 0,-0.554 -0.446,-1 -1,-1 h -7 V 17 c 0,-0.554 -0.446,-1 -1,-1 H 100 V 9 C 100,8.446 99.554,8 99,8 h -6 c -0.554,0 -1,0.446 -1,1 v 7 H 84 V 9 C 84,8.446 83.554,8 83,8 h -6 c -0.554,0 -1,0.446 -1,1 v 7 H 68 V 9 C 68,8.446 67.554,8 67,8 h -6 c -0.554,0 -1,0.446 -1,1 v 7 H 52 V 9 C 52,8.446 51.554,8 51,8 h -6 c -0.554,0 -1,0.446 -1,1 v 7 H 36 V 9 C 36,8.446 35.554,8 35,8 Z m -4,16 h 3 8 8 8 8 8 8 8 8 8 3 c 0.554,0 1,0.446 1,1 v 3 8 8 8 8 8 8 8 8 8 3 c 0,0.554 -0.446,1 -1,1 h -3 -8 -8 -8 -8 -8 -8 -8 -8 -8 -3 c -0.554,0 -1,-0.446 -1,-1 v -3 -8 -8 -8 -8 -8 -8 -8 -8 -8 -3 c 0,-0.554 0.446,-1 1,-1 z"
+       style="fill:#ffffff;stroke-linecap:round;stroke-linejoin:round"
+       id="cpu" />
+  </g>
+</svg>

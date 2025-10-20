@@ -1,5 +1,6 @@
 files=`{walk -f | grep 'index\.md$' | sed 's:\.md$:.html:' | grep -v '^out/'}
-copymedia=`{walk -f | grep '\.png$' | grep -v '^out/'}
+copypng=`{walk -f | grep '\.png$' | grep -v '^out/'}
+copysvg=`{walk -f | grep '\.svg$' | grep -v '^out/'}
 
 nl='
 '
@@ -16,7 +17,7 @@ END {
 }'
 linkconv='s:href="([a-zA-Z0-9\-_\.\/]+\/)index.md:href="\1:g'
 
-all:V: ${files:%=out/%} ${copymedia:%=out/%} out/Scalem-DemoData.zip
+all:V: ${files:%=out/%} ${copypng:%=out/%} ${copysvg:%=out/%} out/Scalem-DemoData.zip
 
 test:V:
 	@{cd out && ../test/deadlinks.rc}
@@ -50,6 +51,11 @@ out/%/index.html:Q: %/index.md fragments/header.ht fragments/footer.ht
 out/%.png:Q: %.png
 	mkdir -p `{basename -d $target}
 	cp $stem.png $target
+	echo √ cpy `{basename $target}
+
+out/%.svg:Q: %.svg
+	mkdir -p `{basename -d $target}
+	cp $stem.svg $target
 	echo √ cpy `{basename $target}
 
 out/Scalem-DemoData.zip:Q: Scalem-DemoData.zip

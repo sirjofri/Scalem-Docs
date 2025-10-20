@@ -16,7 +16,7 @@ END {
 }'
 linkconv='s:href="([a-zA-Z0-9\-_\.\/]+\/)index.md:href="\1:g'
 
-all:V: ${files:%=out/%} ${copymedia:%=out/%}
+all:V: ${files:%=out/%} ${copymedia:%=out/%} out/Scalem-DemoData.zip
 
 test:V:
 	@{cd out && ../test/deadlinks.rc}
@@ -51,3 +51,6 @@ out/%.png:Q: %.png
 	mkdir -p `{basename -d $target}
 	cp $stem.png $target
 	echo √ cpy `{basename $target}
+
+out/Scalem-DemoData.zip:Q: Scalem-DemoData.zip
+	cp $prereq $target

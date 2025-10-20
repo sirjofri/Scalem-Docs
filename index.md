@@ -1,6 +1,9 @@
 # Gotta Scal'em All
 
-This is the documentation of the **Scalem** Unreal plugin that should help you make your project scalable for specific target machines.
+This is the documentation of the **Scalem** Unreal _Visual Scalability Editor_ that can help you make your project scalable for specific target machines.
+
+- [Purchase Scalem](https://fab.com)
+- [Download demo data](Scalem-DemoData.zip)
 
 ## How to Read this Documentation
 

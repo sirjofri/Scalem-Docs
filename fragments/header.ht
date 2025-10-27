@@ -11,7 +11,7 @@ body {
 	max-width: 960px;
 	margin: auto;
 	padding: 10px;
-	background: linear-gradient(to right, #ffff 20%, #fffd), url("media/allover.png") center;
+	background: linear-gradient(to right, #ffff 20%, #fffd), url("/Scalem/media/allover.png") center fixed;
 	background-size: cover;
 }
 body > ul:first-of-type {
@@ -83,7 +83,7 @@ blockquote {
 	height: 50px;
 	position: relative;
 	top: 15px;
-	background: url("media/Icon.svg") center;
+	background: url("/Scalem/media/Icon.svg") center;
 	background-size: cover;
 	filter: drop-shadow(0px 0px 6px black);
 }
@@ -96,7 +96,7 @@ blockquote {
 
 @media (prefers-color-scheme: dark) {
 body {
-	background: linear-gradient(to right, #000, #222e), url("media/allover.png") center;
+	background: linear-gradient(to right, #000, #222e), url("/Scalem/media/allover.png") center fixed;
 	background-size: cover;
 	color: white;
 }

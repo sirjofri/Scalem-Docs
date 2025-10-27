@@ -10,12 +10,31 @@ The _Loop_ routines will be used regularly, and you'll probably spend most time 
 
 > If you feel that some important info is missing here, take a look at the [Windows in Detail](../Windows-in-Detail/index.md), which sometimes has more detailed information about the usage of the individual windows.
 
+To open the Scalem Editor window, navigate to `Tools` → `Scalem Editor`:
+
+![Scalem Editor menu entry](../Media/Menu_Scalem.png)
+
 ## Setup Routines
 
 ### Setting up Target Machines
 
 Each target machine needs to be set up before you can add captures to it.
 However, it is possible to first make the captures, then create the target machine.
+
+You should make the specifics of each target machine clear for youself and your team.
+This commonly includes not only the scalability settings (Low, Medium, High, Epic), but also the target framerate and other specifics.
+
+To create a new target machine, hit the `New` button in the _Machines and Captures_ window:
+
+![New target machine button](../Media/CreateTargetMachine_Button.png)
+
+Then, give the new target machine a name:
+
+![Target machine name](../Media/CreateTargetMachine_MachineName.png)
+
+To finish setting up the target machine, fill in the details and an optional comment, then hit save:
+
+![Target machine details](../Media/CreateTargetMachine_Details.png)
 
 ### Setting up Calculation Parameters
 
@@ -26,6 +45,10 @@ The settings contain values such as:
 - Thresholds for warning indicators ("match values")
 
 > These settings will be applied immediately after changing!
+
+This window can be opened by using the `Window` menu in the _Scalem Editor_.
+
+![calculation parameters](../Media/calc-params.png)
 
 ### Creating new `Scalability.ini` preset files
 
@@ -38,6 +61,8 @@ Even if the `DefaultScalability.ini` file does _not_ exist, it still appears in 
 If you want to create it, you can select it and confirm the prompt.
 This will copy the `BaseScalability.ini` file that's shipped with Unreal and place it into the correct location.
 
+![Copy DefaultScalability.ini](../Media/Ask_DefaultScalability.png)
+
 ## Loop Routines
 
 In rough order:
@@ -47,6 +72,8 @@ In rough order:
 With the plugin enabled, package your project using the `Development` configuration.
 Copy that project over to the target machine you want to test on, then run it.
 
+> Note: The `Development` configuration is only needed if you want to use a console command to capture scalability data.
+
 ### 2. Adjust the Performance on the Target Machine
 
 Use various techniques to adjust the quality settings to achieve what you defined for the target machine.
@@ -55,7 +82,7 @@ Note that currently the scalability group setting can only be compared to the sa
 
 If your quality settings menu uses scalability groups, you can also use it to balance quality and performance.
 
-> Note that this definition can vary. While you might want to maintain stable 60+ fps on one machine, 30+ fps could be enough for another machine. Look at your definition.
+> Note that this definition can vary. While you might want to maintain stable 60+ fps on one machine, 30+ fps could be enough for another machine. Look at your definition!
 
 To find the best settings for that target machine, it's sometimes necessary to play through longer (and different) sections of the game.
 Keep that in mind.
@@ -67,8 +94,9 @@ When you're satisfied with the quality settings and the performance, you can use
 The command takes all the parameters as a comment, so you can keep apart multiple captures.
 
 > Note that Scalem uses the computer name as the target machine name.
+> You can manually adjust the name in the captured file using a standard text editor.
 
-As a last step, copy that file (`(Unreal Project)/Scalem/....ini`) to your project `Scalem` folder.
+As a last step, copy that file (`(Unreal Project)/Scalem/....ini`) to your project's `Scalem` folder.
 
 > Scalem is designed so that you can include a capture/report button in your menu and ask playtesters to do that process for you.
 > It is up to you to manage playtesters and provide them with information about this.
@@ -88,10 +116,23 @@ This will automatically put the bar plot window into the "compare to auto" mode 
 
 To get back to "compare to target" mode, use the "Select None" button.
 
+
+<video controls autoplay loop muted>
+<source src="../Media/Select_Scalability.mp4">
+</video>
+
 #### Adding Scalability Captures to the Overview
 
 Using the _Machines and Captures_ window, you can look at all scalability captures and activate them.
 Activated captures will be added to the calculation and to the bar plot, as well as to the _Visual Scalability Editor_ as little, colored dots.
+
+<!--<video controls autoplay loop muted>
+<source src="../Media/Select_Captures.mp4">
+</video-->
+
+<video controls autoplay loop muted>
+<source src="../Media/Select_Captures_Live.mp4">
+</video>
 
 #### Editing the Scalability Preset
 
@@ -99,6 +140,10 @@ To adjust the scalability group thresholds, you can use two different methods:
 
 - Adjust the value in the table (_Scalability Editor_). You can click and enter a number, or click-drag to change the number directly.
 - Move the white handles in the _Visual Scalability Editor_.
+
+<video controls autoplay loop muted>
+<source src="../Media/Live_Editing.mp4">
+</video>
 
 The second way can be the preferred way, as you can also see the benchmark values and the target for the selected scalability captures and their target machines.
 
@@ -115,6 +160,10 @@ To overwrite the `DefaultScalability.ini` file with your _selected_ preset, you 
 
 In the _Scalability Editor_, you can use the little pencil icons to open a CVar editor window for that specific scalability group and quality.
 In that window, you can add and adjust the values as you like.
+
+<video controls autoplay loop muted>
+<source src="../Media/Edit_CVars.mp4">
+</video>
 
 #### Selecting Scalability Captures
 

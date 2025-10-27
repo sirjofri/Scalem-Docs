@@ -37,7 +37,10 @@ body > p:last-of-type {
 a {
 	text-decoration: none;
 }
-img {
+h2 {
+	margin-top: 50px;
+}
+img, video {
 	display: block;
 	max-width: 100%;
 	width: auto;

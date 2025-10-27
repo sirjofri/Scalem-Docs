@@ -5,6 +5,10 @@ This is the documentation of the **Scalem** Unreal _Visual Scalability Editor_ t
 - [Purchase Scalem](https://fab.com)
 - [Download demo data](Scalem-DemoData.zip)
 
+## Quick Links
+
+- [Scalem How to/Quick start guide](Scalem-User-Guide/How-to-Use/index.md)
+
 ## How to Read this Documentation
 
 In the beginning, you'll get a list of common terms that are used within the whole documentation.
@@ -17,6 +21,7 @@ Everything mentioned in that part applies to your projects whether you're using 
 The second part is about Scalem itself.
 It builds on top of the knowledge you gained from the first part, so I recommend reading that part first.
 You'll learn about the general layout of the Scalem windows and how to use them.
+If you want to jump into the cold water, you can also access the [Scalem How to](Scalem-User-Guide/How-to-Use/index.md) immediately.
 
 The source code of this documentation is available [here](https://github.com/sirjofri/Scalem-Docs).
 

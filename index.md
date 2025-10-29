@@ -2,12 +2,11 @@
 
 This is the documentation of the **Scalem** Unreal _Visual Scalability Editor_ that can help you make your project scalable for specific target machines.
 
-- [Purchase Scalem](https://fab.com)
-- [Download demo data](Scalem-DemoData.zip)
-
 ## Quick Links
 
+- [Purchase Scalem](https://www.fab.com/listings/05987f95-c097-4cff-a11c-7c33027c3e6b) (fab link)
 - [Scalem How to/Quick start guide](Scalem-User-Guide/How-to-Use/index.md)
+- [Download demo data](Scalem-DemoData.zip)
 
 ## How to Read this Documentation
 

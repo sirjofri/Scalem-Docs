@@ -8,6 +8,18 @@ This is the documentation of the **Scalem** Unreal _Visual Scalability Editor_ t
 - [Scalem How to/Quick start guide](Scalem-User-Guide/How-to-Use/index.md)
 - [Download demo data](Scalem-DemoData.zip)
 
+## What is Scalem?
+
+Balancing Unreal's `DefaultScalability.ini` is often a grind: endless numbers, trial & error, spreadsheets, and lots of guesswork.
+
+Scalem changes that. It's a dedicated editor window that lets you **visualize**, **compare**, and **fine-tune** scalability settings—based on real data from your target machines.
+
+- **Save hours of trial & error** – adjust values with **intuitive sliders** instead of juggling numbers.
+- **Work with reality, not assumptions** – fetch **real performance data** from the PCs that matter.
+- **Experiment without risk** – create and compare multiple **scalability presets** instantly.
+- **Keep your pipeline clean** – Scalem uses Unreal's **native scalability system**, nothing proprietary.
+- **Get team alignment** – no more subjective debates, just shared **visual data**.
+
 ## How to Read this Documentation
 
 In the beginning, you'll get a list of common terms that are used within the whole documentation.

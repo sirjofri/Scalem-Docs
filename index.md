@@ -7,6 +7,7 @@ This is the documentation of the **Scalem** Unreal _Visual Scalability Editor_ t
 - [Purchase Scalem](https://www.fab.com/listings/05987f95-c097-4cff-a11c-7c33027c3e6b) (fab link)
 - [Scalem How to/Quick start guide](Scalem-User-Guide/How-to-Use/index.md)
 - [Download demo data](Scalem-DemoData.zip)
+- [Report issues](https://github.com/sirjofri/Scalem-Docs/issues)
 
 ## What is Scalem?
 

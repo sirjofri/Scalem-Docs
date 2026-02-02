@@ -6,10 +6,22 @@
 <title>%TITLE%</title>
 <link rel="icon" href="/Scalem/media/Icon.svg">
 <link rel="stylesheet" href="/common/style.css">
+<style type="text/css">
+.plugin-icon {
+	display: inline-block;
+	width: 50px;
+	height: 50px;
+	position: relative;
+	top: 15px;
+	background: url("/Scalem/media/Icon.svg") center;
+	background-size: cover;
+	filter: drop-shadow(0px 0px 6px black);
+}
+</style>
 </head>
 <body>
 <header>
-<p><span class="scalem-icon"></span> Scalem User Documentation &ndash; %TITLE%</p>
+<p><span class="plugin-icon"></span> Scalem User Documentation &ndash; %TITLE%</p>
 <hr>
 </header>
 <div class="bar performance"></div>

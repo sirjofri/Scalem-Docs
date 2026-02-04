@@ -2,14 +2,11 @@
 
 This is the documentation of the **Scalem** Unreal _Visual Scalability Editor_ that can help you make your project scalable for specific target machines.
 
-## Quick Links
-
-- [Purchase Scalem](https://www.fab.com/listings/05987f95-c097-4cff-a11c-7c33027c3e6b) (fab link)
-- [Scalem How to/Quick start guide](Scalem-User-Guide/How-to-Use/index.md)
-- [Download demo data](Scalem-DemoData.zip)
-- [Report issues](https://github.com/sirjofri/Scalem-Docs/issues)
-
 ## What is Scalem?
+
+<video controls autoplay loop muted>
+<source src="./media/Scalem-Demo.mp4">
+</video>
 
 Balancing Unreal's `DefaultScalability.ini` is often a grind: endless numbers, trial & error, spreadsheets, and lots of guesswork.
 
@@ -20,6 +17,19 @@ Scalem changes that. It's a dedicated editor window that lets you **visualize**,
 - **Experiment without risk** – create and compare multiple **scalability presets** instantly.
 - **Keep your pipeline clean** – Scalem uses Unreal's **native scalability system**, nothing proprietary.
 - **Get team alignment** – no more subjective debates, just shared **visual data**.
+
+## Quick Links
+
+- [Purchase Scalem](https://www.fab.com/listings/05987f95-c097-4cff-a11c-7c33027c3e6b) (fab link)
+- [Scalem How to/Quick start guide](Scalem-User-Guide/How-to-Use/index.md)
+- [Download demo data](Scalem-DemoData.zip)
+- [Report issues](https://github.com/sirjofri/Scalem-Docs/issues)
+
+## Table of Contents
+
+1. [Introduction: Terminology](Intro-Terminology/index.md)
+2. [Scalability in Unreal](Scalability-in-Unreal/index.md)
+3. [Scalem User Guide](Scalem-User-Guide/index.md)
 
 ## How to Read this Documentation
 
@@ -36,11 +46,5 @@ You'll learn about the general layout of the Scalem windows and how to use them.
 If you want to jump into the cold water, you can also access the [Scalem How to](Scalem-User-Guide/How-to-Use/index.md) immediately.
 
 The source code of this documentation is available [here](https://github.com/sirjofri/Scalem-Docs).
-
-## Table of Contents
-
-1. [Introduction: Terminology](Intro-Terminology/index.md)
-2. [Scalability in Unreal](Scalability-in-Unreal/index.md)
-3. [Scalem User Guide](Scalem-User-Guide/index.md)
 
 [Start →](Intro-Terminology/index.md)
